@@ -9,7 +9,7 @@ const Main = () => {
           artificial intelligence and machine learning to help investors make informed 
           decisions in the stock market.
         </p>
-        <Button text='Login' class="btn btn-outline-warning "/>
+        <Button text='Login' url="/login" class="btn btn-outline-warning "/>
       </div>
       
     </div>
